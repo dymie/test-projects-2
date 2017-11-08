@@ -1,3 +1,3 @@
 # test-projects-2
 
-the second project
+finished the 2nd project
